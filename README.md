@@ -31,3 +31,10 @@
 <div align="center">
   <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question5.c">Click Here</a></h2>
 </div>
+
+### Q6. Write a program to display all the factors of the given number.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question6.c">Click Here</a></h2>
+</div>
+
+### Q7. Consider an array, A=[1,5,6,8,3,2,1,0]. Write a C function that returns the index of given input number in the passed array A. (Linear Search)
