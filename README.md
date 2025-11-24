@@ -38,3 +38,64 @@
 </div>
 
 ### Q7. Consider an array, A=[1,5,6,8,3,2,1,0]. Write a C function that returns the index of given input number in the passed array A. (Linear Search)
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question7.c">Click Here</a></h2>
+</div>
+
+### Q8. Write a program to do summation(addition) of all the elements in 1-D array.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question8.c">Click Here</a></h2>
+</div>
+
+### Q9. Write a program to do matrix multiplication of two matrices input by user.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question9.c">Click Here</a></h2>
+</div>
+
+### Q10. Write a program to implement any 6 inbuilt string functions in C on given input string.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question10.c">Click Here</a></h2>
+</div>
+
+### Q11. Write a program to reverse the given input string without using inbuilt string functions.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question11.c">Click Here</a></h2>
+</div>
+
+### Q12. Write a C program to implement a function to print upto the nth Fibonacci element in the series using recursion.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question12.c">Click Here</a></h2>
+</div>
+
+### Q13. Write a C program to find:
+- a. the square root of a number using the sqrt() function.,
+- b. the log value using log() function
+- c. the power using pow() function
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question13.c">Click Here</a></h2>
+</div>
+
+### Q14. Write a program to swap two numbers using call by value and call by reference.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question14.c">Click Here</a></h2>
+</div>
+
+### Q15. Write a program to print an array using the concept of pointers.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question15.c">Click Here</a></h2>
+</div>
+
+### Q15. Write a program that uses structure to store name, rollnumber and marks of student. Input the data from user and output the same.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question15a.c">Click Here</a></h2>
+</div>
+
+### Q16. Write a program to read a text file and display its contents on console screen.
+<div align="center">
+  <h2>Solution: <a href="https://github.com/xemishra/CSE-Assignment/blob/main/question16.c">Click Here</a></h2>
+</div>
+
+### Want Fully Completed PPT?
+### Dm : [@xemishra](https://instagram.com/xemishra)
+
+### Made with ❤️ by Shivanand Mishra!
